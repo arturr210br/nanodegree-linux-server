@@ -231,6 +231,10 @@ python database_setup.py
 python populate_databae.py
 python __init__.py
 
+You can set up unattended-upgrades pretty easily by typing this in a terminal:
+sudo apt-get install unattended-upgrades
+sudo dpkg-reconfigure unattended-upgrades
+
 
 Restart the Apache Server by using below command
 
