@@ -267,5 +267,9 @@ https://modwsgi.readthedocs.io/en/develop/user-guides/virtual-environments.html
 https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-16-04
 https://www.digitalocean.com/community/tutorials/ssh-essentials-working-with-ssh-servers-clients-and-keys
 https://help.ubuntu.com/community/UFW
+https://mudspringhiker.github.io/deploying-a-flask-web-app-on-lightsail-aws.html
+https://umar-yusuf.blogspot.com/2018/02/deploying-python-flask-web-app-on.html
+https://medium.com/@hvedam/aws-light-sail-and-flask-25f093081ea
+https://medium.com/@rodkey/deploying-a-flask-application-on-aws-a72daba6bb80
 -genaraly google serach which brings stackoverflow results too.
 
