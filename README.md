@@ -251,3 +251,20 @@ After performing both enable and disable operations you have to restart apache2
 
 sudo service apache2 reload
 sudo service apache2 restart
+
+
+Resources:
+
+-Udacity Nanodegree FSND: course, forum, the StudentHub and the Knowledge section;
+https://www.digitalocean.com/community/tutorials/how-to-use-roles-and-manage-grant-permissions-in-p
+https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
+https://medium.com/coding-blocks/creating-user-database-and-adding-access-on-postgresql-8bfcd2f4a91
+http://flask.pocoo.org/docs/0.12/installation/
+http://flask.pocoo.org/docs/0.12/deploying/mod_wsgi/
+https://www.digitalocean.com/community/tutorials/how-to-use-postgresql-with-your-django-application-on-ubuntu-14-04
+https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-14-04
+https://modwsgi.readthedocs.io/en/develop/user-guides/virtual-environments.html
+https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-16-04
+https://www.digitalocean.com/community/tutorials/ssh-essentials-working-with-ssh-servers-clients-and-keys
+-genaraly google serach which brings stackoverflow results too.
+
